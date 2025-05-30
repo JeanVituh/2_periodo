@@ -1,2 +1,2 @@
 # 2_periodo
-habilidades desenvolvidas no segundo período de sistemas
+habilidades desenvolvidas no 2º período de sistemas
